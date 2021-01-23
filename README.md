@@ -15,7 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
-一张字符图
+                                                                                                            
+                                                                                                            
+                 .                       __  __   ___         __.....__                                     
+       _     _ .'|       .-.          .-|  |/  `.'   `.   .-''         '.                   .-.          .- 
+ /\    \\   //<  |        \ \        / /|   .-.  .-.   ' /     .-''"'-.  `.                  \ \        / / 
+ `\\  //\\ //  | |         \ \      / / |  |  |  |  |  |/     /________\   \            __    \ \      / /  
+   \`//  \'/   | | .'''-.   \ \    / /  |  |  |  |  |  ||                  |    _    .:--.'.   \ \    / /   
+    \|   |/    | |/.'''. \   \ \  / /   |  |  |  |  |  |\    .-------------'  .' |  / |   \ |   \ \  / /    
+     '         |  /    | |    \ `  /    |  |  |  |  |  | \    '-.____...---. .   | /`" __ | |    \ `  /     
+               | |     | |     \  /     |__|  |__|  |__|  `.             .'.'.'| |// .'.''| |     \  /      
+               | |     | |     / /                          `''-...... -'.'.'.-'  / / /   | |_    / /       
+               | '.    | '.|`-' /                                        .'   \_.'  \ \._,\ '/|`-' /        
+               '---'   '---''..'                                                     `--'  `"  '..'         
 ```
 
 ### 👽 About
@@ -33,14 +45,14 @@ Here are some ideas to get you started:
 </a>
 
 ### 🛠 Skill
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go&logoColor=white)
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 
 ### 💬 Contact Me
 
