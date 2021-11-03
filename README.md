@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### 💬 Contact Me
 
-![Gmail Badge](https://img.shields.io/badge/-dioojj99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-cyhyx521@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 
 ### 🚦 Info
 
