@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ```
 
 ### 👽 About
-**[whymesay](https://whymesay.com)，后端工程师** 
+**whymesay，后端工程师** 
 
 [<img src ="https://img.shields.io/badge/🌐-whymesay.com-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://whymesay.com/)
 
