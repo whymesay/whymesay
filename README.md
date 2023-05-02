@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 ### 💯 Learn
 
 <a href="https://github.com/natee/pomotroid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whymesay&repo=awesome-java&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akullpp&repo=awesome-java&theme=onedark" />
 </a>
 <a href="https://github.com/natee/build-your-own-vue-next">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whymesay&repo=build-web-application-with-golang&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=astaxie&repo=build-web-application-with-golang&theme=onedark" />
 </a>
 
 ### 🛠 Skill
