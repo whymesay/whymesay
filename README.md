@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 ### 👽 About
 
 
-[![whymesay's GitHub | Stats](https://stats.quine.sh/whymesay/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=whymesay)
-
 [![whymesay's GitHub | Languages Over Time](https://stats.quine.sh/whymesay/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=whymesay)
 
 [![whymesay's GitHub | Topics Over Time](https://stats.quine.sh/whymesay/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=whymesay)
