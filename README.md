@@ -31,18 +31,14 @@ Here are some ideas to get you started:
 ```
 
 ### 👽 About
-**whymesay，后端工程师** 
 
-[<img src ="https://img.shields.io/badge/🌐-whymesay.github.io-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://whymesay.github.io/)
 
-### 💯 Learn
+[![whymesay's GitHub | Stats](https://stats.quine.sh/whymesay/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=whymesay)
 
-<a href="https://github.com/natee/pomotroid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akullpp&repo=awesome-java&theme=onedark" />
-</a>
-<a href="https://github.com/natee/build-your-own-vue-next">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=astaxie&repo=build-web-application-with-golang&theme=onedark" />
-</a>
+[![whymesay's GitHub | Languages Over Time](https://stats.quine.sh/whymesay/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=whymesay)
+
+[![whymesay's GitHub | Topics Over Time](https://stats.quine.sh/whymesay/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=whymesay)
+
 
 ### 🛠 Skill
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&logoColor=white)
