@@ -30,14 +30,6 @@ Here are some ideas to get you started:6
                '---'   '---''..'                                                     `--'  `"  '..'         
 ```
 
-### 👽 About
-
-
-[![whymesay's GitHub | Languages Over Time](https://stats.quine.sh/whymesay/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=whymesay)
-
-[![whymesay's GitHub | Topics Over Time](https://stats.quine.sh/whymesay/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=whymesay)
-
-
 ### 🛠 Skill
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go&logoColor=white)
@@ -48,9 +40,6 @@ Here are some ideas to get you started:6
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 
-### 💬 Contact Me
-
-![Gmail Badge](https://img.shields.io/badge/-dioojj99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 
 ### 🚦 Info
 
